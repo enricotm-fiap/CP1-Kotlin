@@ -1,4 +1,4 @@
-package carreiras.com.github.orgs
+package br.com.fiap.orgs
 
 import android.app.Activity
 import android.os.Bundle

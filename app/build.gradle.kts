@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "carreiras.com.github.orgs"
+    namespace = "br.com.fiap.orgs"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "carreiras.com.github.orgs"
+        applicationId = "br.com.fiap.orgs"
         minSdk = 22
         targetSdk = 34
         versionCode = 1

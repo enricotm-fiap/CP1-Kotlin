@@ -1,4 +1,4 @@
-package carreiras.com.github.orgs
+package br.com.fiap.orgs
 
 import org.junit.Test
 
